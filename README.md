@@ -1,6 +1,6 @@
 # project-vue
 
-> A Vue.js project
+> A Vue.js product section showing a notification when the max_quantity of the product has been reached - To test, keep clicking on add and see the cart count update at the top and a notification will appear when the limit is reached
 
 ## Build Setup
 
